@@ -1,0 +1,10 @@
+1	s__Anaeroglobus_geminatus	23
+2	4-[(Hydroxymethyl)nitrosoamino]-1-(3-pyridinyl)-1-butanone	20
+3	s__Olsenella_profusa	19
+4	s__Streptococcus_anginosus	16
+5	Pyrrolidine	15
+6	Tryptamine	12
+7	4-(2,6,6-Trimethyl-1,3-cyclohexadien-1-yl)-2-butanone	8
+8	s__Isoptericola_variabilis	6
+9	s__Alistipes_putredinis	3
+10	s__Candidatus_Nanosynsacchari_sp_TM7_ANC_38_39_G1_1	3
